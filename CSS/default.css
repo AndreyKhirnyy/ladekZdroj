@@ -370,7 +370,7 @@ ul.contact li a.icon-rss:before
 
 #header
 {
-	position: relative;
+	position: center;
 	height: 100px;
 }
 
@@ -682,9 +682,9 @@ ul.contact li a.icon-rss:before
 	#header-featured
 	{
 		height: 30em;
-		background-image: url(../images/gf-nQQW-zR6D-BwyT_uzdrowisko-ladek-zdroj-1280x960.jpg);
+		background-image: url(../images/BeFunky-photo.jpg);
 		background-position: center;
-		background-size: cover;
+		background-size: inherit;
 	}
 
 
